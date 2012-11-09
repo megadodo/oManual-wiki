@@ -1,5 +1,5 @@
 # OpenManual
 
-This is the code for the open manual website.
+Hi there. I mirrored the website code for reference; go look at the wiki. Not much to see here.
 
 
